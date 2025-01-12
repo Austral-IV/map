@@ -1,0 +1,11 @@
+matplotlib
+matplotlib
+matplotlib
+seaborn
+geopandas
+pandas
+warnings
+
+# for image bckg
+pillow
+pillow-avif-plugin
