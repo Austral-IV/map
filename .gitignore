@@ -1,8 +1,11 @@
+__pycache__
+.venv
+
+test*
+
 /data_cts_intentional_homicide.xlsx
 /data_cts_intentional_homicide2.xlsx
 /interactive_world_map.html
 /ne_110m_admin_0_countries.zip
 /world_incidents_map.html
 /world_incidents_map.png
-test*.py
-*pycache

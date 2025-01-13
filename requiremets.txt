@@ -1,11 +1,11 @@
 matplotlib
-matplotlib
-matplotlib
 seaborn
 geopandas
 pandas
-warnings
 
-# for image bckg
+# simplenote for synching with notes
+simplenote
+
+# for image bckground
 pillow
 pillow-avif-plugin
